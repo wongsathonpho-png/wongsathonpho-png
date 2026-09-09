@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wongsathon Phonthan
 
-### 💻 Web Development | IT Support
+### 💻 Web Development 
 
 Final-year **Information Technology student** with practical experience in web development using **HTML, CSS, and JavaScript**. Developed a simulated e-commerce platform as a university course project.
 
@@ -8,7 +8,7 @@ I'm interested in **software development, database systems, web technologies, an
 
 * 🌍 Bangkok, Thailand
 * 🎓 Final-year Information Technology Student
-* 💻 Web Development & IT Support
+* 💻 Web Development 
 * 🧠 Currently learning **JavaScript, SQL & Docker**
 * 📫 **[wongsathon.pho@spumail.net](mailto:wongsathon.pho@spumail.net)**
 
